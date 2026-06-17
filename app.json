@@ -1,29 +1,29 @@
 {
-    "expo": {
-          "name": "Nizaam",
-          "slug": "nizaam",
-          "version": "1.0.0",
-          "orientation": "portrait",
-          "scheme": "nizaam",
-          "userInterfaceStyle": "automatic",
-          "android": {
-                  "package": "com.ali0321.nizaam",
-                  "permissions": []
-          },
-          "plugins": [
-                  "expo-router",
-                  "expo-font"
-          ],
-          "experiments": {
-                  "typedRoutes": true
-          },
-          "extra": {
-                  "router": {
-                            "origin": false
-                  },
-                  "eas": {
-                            "projectId": "your-project-id"
-                  }
-          }
-    }
+      "expo": {
+              "name": "Nizaam",
+              "slug": "nizaam",
+              "version": "1.0.0",
+              "orientation": "portrait",
+              "scheme": "nizaam",
+              "userInterfaceStyle": "automatic",
+              "android": {
+                        "package": "com.ali0321.nizaam",
+                        "permissions": []
+              },
+              "plugins": [
+                        "expo-router",
+                        "expo-font"
+              ],
+              "experiments": {
+                        "typedRoutes": true
+              },
+              "extra": {
+                        "router": {
+                                    "origin": false
+                        },
+                        "eas": {
+                                    "projectId": "fbe74f4a-e8a9-4656-8b3b-519bcb08e37b"
+                        }
+              }
+      }
 }
